@@ -1,0 +1,13 @@
+/*start slider section*/
+.carousel{
+    height: 92vh;
+    .carousel-inner{
+        height: 100%;
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: fill;
+        }
+    }
+}
+/*end slider section*/
